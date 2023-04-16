@@ -122,24 +122,6 @@
     (path "/5cdb2718-315e-4c06-804f-561b680e75ba/1e5387c9-2b30-4412-baa6-981bd410a83b"
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/c02a2e84-0789-493f-aa95-9ba8383eb08c"
-      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/f1e3ba07-3a67-40a3-a285-a5cc57485c0f"
-      (reference "#PWR021") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/4a4fc7b8-027a-4582-add4-6717a3083a0b"
-      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/34f77730-d1f7-416c-b978-0833b209ed5e"
-      (reference "#PWR023") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/19fc4d62-a73e-46df-ac09-e6cc71d5fe2d"
-      (reference "#PWR024") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/f802c0e1-5d9d-4985-85dc-c50ba2f95bda"
-      (reference "#PWR025") (unit 1) (value "GND") (footprint "")
-    )
     (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/f0ad43eb-60d0-439e-86f3-497565f4da45"
       (reference "#PWR026") (unit 1) (value "GND") (footprint "")
     )
@@ -173,6 +155,60 @@
     (path "/7df7f280-31c2-4471-a723-052a8da1acce/55517c5c-23d3-445d-8454-dce7d07e5e83"
       (reference "#PWR036") (unit 1) (value "+12V") (footprint "")
     )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/5fb09c50-2767-4deb-bd8b-10788fe4787a"
+      (reference "#PWR0101") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/b63fdb19-b080-46df-a627-df4d372dfce2"
+      (reference "#PWR0102") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/b1b7e29c-8ad1-4982-8df3-49a7dc51e3f5"
+      (reference "#PWR0103") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/89a2d620-1e7a-47af-8978-d62b0a983870"
+      (reference "#PWR0104") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/49169596-cce3-4605-a87f-d90ee2677f9b"
+      (reference "#PWR0105") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/6d6b69b2-641e-4518-9f0c-d7d507db8b94"
+      (reference "#PWR0106") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/4c371f60-1956-4a00-aef6-44289d837fbf"
+      (reference "#PWR0107") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/d1076dbb-abdf-43ac-8fe4-b76518e16e02"
+      (reference "#PWR0108") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/5d6c129e-2742-4529-bdb4-e86dafda1a97"
+      (reference "#PWR0109") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/4caa3655-9ffb-41d4-bb7d-18f195dd49da"
+      (reference "#PWR0110") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/40a3594d-5d8d-44c7-ac80-f718b16ef098"
+      (reference "#PWR0111") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/4bb847f6-0ede-4d2a-ab4b-b2551338c0b1"
+      (reference "#PWR0112") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/242c14fd-5b84-47a8-9a0d-fda759f123dc"
+      (reference "#PWR0113") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/c23ec647-5682-4b2a-92d0-4c5f2e52e57c"
+      (reference "#PWR0114") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/5ad47407-cda3-4f61-8877-2fc00d5afeb7"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/ec9471ad-1f7a-44f0-b57a-aa030501d053"
+      (reference "#PWR0116") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/3b05af23-5cb6-4f93-96d5-151f4e576ac0"
+      (reference "#PWR0117") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/5cc98798-bfd7-45b9-84da-96b1ae178502"
+      (reference "#PWR0118") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/5cdb2718-315e-4c06-804f-561b680e75ba/0643ca8a-ecb3-47ea-b252-5ec6900cbd51"
       (reference "C1") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -200,32 +236,32 @@
     (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/80b5ef42-6287-4389-ac0c-9aa4b02e74ee"
       (reference "J1") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/5cdb2718-315e-4c06-804f-561b680e75ba/52a7a63f-39ac-4fd4-bf07-5709a38d7dad"
-      (reference "J2") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/5cdb2718-315e-4c06-804f-561b680e75ba/05b9c362-ecf4-47c2-a0d4-cd8aa1c206fe"
+      (reference "J2") (unit 1) (value "Jack-DC") (footprint "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/5735181a-5643-4663-98b3-ed95737f0f3a"
-      (reference "J3") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/055e0dec-85ba-4c7d-8b78-b231b3e3d580"
+      (reference "J3") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/c0c043e3-31f1-46de-9ec1-d77d5d69f138"
-      (reference "J4") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/4acd765d-8c51-478a-a436-d78b71b36fd5"
+      (reference "J4") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/9a14e573-a845-4527-947f-4ebdc3988204"
-      (reference "J5") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/e2847f74-4da2-4290-89d2-3fc37f612667"
+      (reference "J5") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/4486bc91-09d1-4599-b605-18a17c3979c6"
-      (reference "J6") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/c1b177b0-eb74-455c-91cf-87eee3ba0ece"
+      (reference "J6") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/20977d8b-2a29-4e9d-b5c2-9df621183af8"
-      (reference "J7") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/8a6dd279-9f73-4ad5-ad85-6cdfeab65d67"
+      (reference "J7") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/6ef9b02c-5681-4893-b53f-8623bdbdbe47"
-      (reference "J8") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/f26d3e3a-5b21-4bc5-a102-fb40c292f416"
+      (reference "J8") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/b7d35adc-8dd7-4623-9694-908b91f4156c"
-      (reference "J9") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
+    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/243176d8-0633-43fd-9218-617816c7c9c7"
+      (reference "J9") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
-    (path "/cb143420-fca2-4cbd-801e-28377ce9b27c/dedc448b-53a1-47c2-a81b-337d349dcdd1"
-      (reference "J?") (unit 1) (value "Conn_01x02_Female") (footprint "")
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/f7aac1a4-7217-452f-b045-1c2cf7197082"
+      (reference "J10") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/9c80a9a2-3f9d-40a3-bdd4-adb4d48a8f3c"
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -286,6 +322,21 @@
     )
     (path "/5cdb2718-315e-4c06-804f-561b680e75ba/a9f2d03a-2b41-4b20-a273-431c6072742b"
       (reference "U2") (unit 1) (value "TLV76733DRVx") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/a52c0c2d-12fb-4d3c-893f-fcccb63b0060"
+      (reference "U3") (unit 1) (value "MAX31856") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/2b389ea3-2965-4356-8196-f7d1a9684321"
+      (reference "U4") (unit 1) (value "MAX31856") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/eeaf936c-c05d-474c-b1e6-acd4e7725736"
+      (reference "U5") (unit 1) (value "MAX31856") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/e51ec252-aced-420f-960a-a1cdf5bf97df"
+      (reference "U6") (unit 1) (value "MAX31856") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/bde95c06-433a-4c03-bc48-e3abcdb4e054/d85c600e-fc64-4e09-a15f-6824e9f2069e"
+      (reference "U7") (unit 1) (value "MAX31856") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
   )
 )
