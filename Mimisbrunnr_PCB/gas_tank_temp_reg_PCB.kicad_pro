@@ -494,6 +494,10 @@
     [
       "7df7f280-31c2-4471-a723-052a8da1acce",
       "Relays"
+    ],
+    [
+      "cad6e740-7676-42a4-83f3-2612ff25c6ca",
+      "thermocouples"
     ]
   ],
   "text_variables": {}

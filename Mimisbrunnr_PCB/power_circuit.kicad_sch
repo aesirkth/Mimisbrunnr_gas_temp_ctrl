@@ -415,7 +415,7 @@
     (effects (font (size 2.5 2.5) (thickness 0.5) bold) (justify left bottom))
     (uuid 4cca5f9e-7f08-4e20-8451-6503a48d74d5)
   )
-  (text "Inverted because this and XT30 actually" (at 83.82 102.87 0)
+  (text "Inverted because this is an XT30 actually" (at 83.82 102.87 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f63d6fe5-21f1-48ba-b860-e36c4f734085)
   )
