@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "SRD-12VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/external components/SRD-12VDC-SL-C")(options "")(descr ""))
+  (lib (name "BD733L5FP")(type "KiCad")(uri "${KIPRJMOD}/external components/BD733L5FP")(options "")(descr ""))
 )

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "SRD-12VDC-SL-C")(type "Legacy")(uri "${KIPRJMOD}/external components/SRD-12VDC-SL-C/SRD-12VDC-SL-C.lib")(options "")(descr ""))
+  (lib (name "BD733L5FP")(type "KiCad")(uri "${KIPRJMOD}/external components/BD733L5FP/BD733L5FP-CE2.kicad_sym")(options "")(descr ""))
 )
